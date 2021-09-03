@@ -1,3 +1,5 @@
+
+
 .column2 {
     width: 45%;
     height: auto;
@@ -5,11 +7,15 @@
     margin-right: 5%;
 }
 
+.container {
+	width:1160px;
+	height:auto;
+}
 .column1 {
-    width: 45%;
+    width: 40%;
     height: auto;
     float: left;
-    margin-left: 5%;
+    margin-right: 10%;
 }
 .bcimg {
     margin-bottom: 20px;
